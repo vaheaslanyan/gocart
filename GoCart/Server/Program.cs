@@ -1,3 +1,4 @@
+global using GoCart.Shared;
 using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);

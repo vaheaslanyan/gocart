@@ -1,4 +1,3 @@
-using GoCart.Shared;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GoCart.Server.Controllers
